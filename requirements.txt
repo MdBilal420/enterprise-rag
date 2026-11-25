@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+numpy
+
+
+google-generativeai
+langchain-google-genai
+sentence-transformers
